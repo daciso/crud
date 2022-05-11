@@ -1,0 +1,26 @@
+body{
+    color:black
+}
+
+#logo{
+    color: green
+}
+
+.text-logo{
+    font-size:  1.10em;
+    font-weight: 600;
+}
+
+main{
+   min-height: 1000px; 
+}
+
+.footer-section{
+    font-size: 0.75em;
+}
+
+.image_list{
+    width: auto;
+    height: 3.5em;
+}
+
